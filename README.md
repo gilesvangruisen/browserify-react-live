@@ -1,6 +1,6 @@
 # Browserify React Live
 This is a [browserify](https://github.com/substack/node-browserify) transform which works similarly to [react-hot-loader](https://github.com/gaearon/react-hot-loader).
-Once you run you app in the browser, it monitors your JavaScript code and only updates the changed component, preserving the state of the application.
+Once you run your app in the browser, it monitors your JavaScript code and only updates the changed component, preserving the state of the application.
 
 <img src="https://habrastorage.org/files/f42/100/e62/f42100e623b94bcc955c44ac65082028.gif"/>
 
